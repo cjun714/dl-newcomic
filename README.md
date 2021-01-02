@@ -6,12 +6,12 @@ Tool to scape site *newcomic.info*.
 
 ## Install
 ``` shell
-> go get -u github.com/cjun714/dl
+> go get -u github.com/cjun714/dl-newcomic
 ```
 
 ## How to Use
 ``` shell
-# download pages from 'newcomic.info/page/201' - newcomic.info/page/300',
+# download pages from 'newcomic.info/page/201' to newcomic.info/page/300',
 # including index pages, detail pages and cover images.
 # A direcotry /201-300/ will be created,
 # index pages will be stored in ./201-300/,
